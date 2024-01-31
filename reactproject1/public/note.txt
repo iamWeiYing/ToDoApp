@@ -1,0 +1,17 @@
+﻿Cần làm:
+- state manage: ZustandAPI
+
+
+Xong:
+- Thêm xác nhận xóa task
+- Thêm menu
+- Thêm điều kiện khi nhập dữ liệu (không đc để trống dữ liệu)
+- Thêm hiển thị trạng thái cho task
+- Thêm giời gian hoàn thành cho task
+- Thêm 1 mục lưu các task đã xóa
+
+- Chuyển hiển thị dữ liệu của taskList sang 
+- Thêm tính giờ thực hiện (nút bđ và kt)
+
+- data: mockAPI
+- request, response: AxiosAPI

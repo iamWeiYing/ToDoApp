@@ -1,0 +1,35 @@
+* {
+    font-size: 17px;
+}
+
+body {
+    background-image: url("/background.jpg");
+    background-position: center;
+    background-repeat:repeat-y;
+}
+
+.frm {
+    width: 800px;
+    height: 90vh;
+    min-height: 800px;
+    background-color: #d6a92d;
+    margin: auto;
+    padding: 20px 70px;
+}
+
+.todo-item {
+    padding: 10px 0;
+}
+
+.btn-grp {
+    padding: 20px 0 0;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #000;
+}
+
+h2 {
+    padding: 15px 0 10px;
+}
